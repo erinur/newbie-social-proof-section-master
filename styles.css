@@ -210,7 +210,7 @@ body {
   color: var(--very-dark-magenta);
   margin-bottom: 1.4rem;
 }
-.header-container p {
+.header-container h2 {
   font-size: 1.1rem;
   line-height: 1.4rem;
   font-weight: 500;
